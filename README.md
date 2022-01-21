@@ -1,4 +1,4 @@
-# Tattoo Studio
+# Tattoo Studio - v. 0.965
 Tattoo Studio - HTML5 template
 
 [Live Preview](http://172.104.151.187/)
